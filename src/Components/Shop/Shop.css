@@ -1,0 +1,11 @@
+.products-contaner{
+    display: grid;
+    grid-template-columns: 3fr 1fr ;
+   
+}
+.product-container{
+    border-right: 1px solid black;
+    
+    margin-right: 5px;
+    padding-left: 50px;
+}

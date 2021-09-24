@@ -1,0 +1,16 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightslategray;
+    background-color: whitesmoke;
+}
+.p-name{
+    color: blue;
+}
+.btnn{
+    width: 30%;
+    background-color: goldenrod;
+    padding: 5px;
+    margin-bottom: 4px;
+    border-radius: 5px;
+    border: 1px solid wheat;
+}
